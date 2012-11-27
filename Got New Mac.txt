@@ -1,4 +1,4 @@
-Nov 26, 2012
+Nov 25, 2012
 
 Got a new mac, what did I do next?
 
@@ -22,5 +22,10 @@ http://xquartz.macosforge.org/landing/
 Learned about a startup called Cloud Made which created leaflet and is by the guys who started OpenStreetMap.
 
 Learned about YouTube's founders.
+
+Nov 26, 2012
+
+Got Flash:
+http://get.adobe.com/flashplayer
 
 
