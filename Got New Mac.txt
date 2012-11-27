@@ -11,6 +11,7 @@ http://www.eclipse.org/downloads/
 Got Xcode from App Store.  Went into Xcode and downloaded dev tools.
 
 Got Homebrew:
+http://mxcl.github.com/homebrew/
 ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
 
 Got Intellij IDEA:
@@ -27,5 +28,14 @@ Nov 26, 2012
 
 Got Flash:
 http://get.adobe.com/flashplayer
+
+Install RVM:
+
+$ curl -L https://get.rvm.io | bash -s stable --ruby
+$ echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bash_profile
+
+Install MacRuby:
+http://macruby.org
+
 
 
