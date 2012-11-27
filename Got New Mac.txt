@@ -1,0 +1,26 @@
+Nov 26, 2012
+
+Got a new mac, what did I do next?
+
+Bought a Freestyle Plus Messenger bag for Macbook Air 11" from timbuk2:
+http://www.timbuk2.com/tb2/products/freestyle-messenger-plus-macbook-air/2114789
+
+Got eclipse IDE for Java Developers:
+http://www.eclipse.org/downloads/
+
+Got Xcode from App Store.  Went into Xcode and downloaded dev tools.
+
+Got Homebrew:
+ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+
+Got Intellij IDEA:
+http://www.jetbrains.com/idea/
+
+Got XQuartz:
+http://xquartz.macosforge.org/landing/
+
+Learned about a startup called Cloud Made which created leaflet and is by the guys who started OpenStreetMap.
+
+Learned about YouTube's founders.
+
+
