@@ -1,0 +1,79 @@
+Technologies
+
+Java
+ Http Servers
+  +Jetty
+  Netty
+  Mina
+  Apache HttpCore
+ Junit
+  +Mockito
+ Build Systems
+  Jenkins
+  +Gradle
+  +Maven
+  -Ant
+ Management Systems
+  Jira
+  Trac
+ JVM Languages
+  +JRuby
+  Scala
+  Clojure
+  Groovy
+  Rhino
+ 
+Ruby
+ Web Frameworks
+  +Sinatra
+  Rails
+ ORMs
+  +DataMapper
+  ActiveRecord
+ Systems Management
+  Capistrano
+  Puppet
+  Chef
+
+Python
+ Web Frameworks
+  Flask
+  Django
+
+Cloud Systems
+ EC2
+ Heroku
+ Splunk
+ MixPanel
+
+Databases/Datastores
+ Mysql
+ Postgres
+ Mongodb
+ Redis
+
+Unix
+ Binutils
+ Rsync
+ NFS
+ Syslog
+
+Ecosystems
+ Mac OS X/Cocoa
+ Linux/BSD
+ Terminal/Command-line
+ Windows
+ iOS
+ Android
+ LAMP
+ HTML5
+
+Web Technologies
+ HTML5
+ CoffeeScript
+ JQuery
+ Backbone.js
+ Less
+ +HAML
+ +SASS
+ 
